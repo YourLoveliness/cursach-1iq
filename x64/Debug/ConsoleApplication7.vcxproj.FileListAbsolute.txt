@@ -1,0 +1,2 @@
+C:\Users\Usver\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
+C:\Users\Usver\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.pdb
